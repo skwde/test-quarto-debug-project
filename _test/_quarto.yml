@@ -1,0 +1,16 @@
+date: last-modified
+date-format: long
+author:
+  - name: skw
+format:
+  revealjs:
+    # ## use aspectratio 1610
+    width: 1280 # default: 970
+    height: 800 # default: 700
+    auto-stretch: false
+    navigation-mode: vertical
+    controls: true
+    progress: true
+    slide-number: h.v
+    toc: true
+    toc-depth: 1
